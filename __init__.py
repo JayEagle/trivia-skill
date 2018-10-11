@@ -29,7 +29,7 @@ class TriviaSkill(MycroftSkill):
     # pieces, and is triggered when the user's utterance matches the pattern
     # defined by the keywords.  
     @intent_handler(IntentBuilder("").require("trivia").require("ask"))
-    def handle_museum_vocab(self, message):
+    def handle_trivia_vocab(self, message):
         # In this case, respond by simply speaking a canned response.
         # Mycroft will randomly speak one of the lines from the file
         #    dialogs/en-us/hello.world.dialog
