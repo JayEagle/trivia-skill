@@ -10,7 +10,7 @@ from mycroft.util.log import LOG
 
 __author__ = 'j1bla02'
 
-LOG = getLogger(__name__)
+# LOG = getLogger(__name__)
 
 # Each skill is contained within its own class, which inherits base methods
 # from the MycroftSkill class.  You extend this class as shown below.
