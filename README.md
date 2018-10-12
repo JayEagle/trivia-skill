@@ -1,19 +1,17 @@
-To submit your skill, replace this file with text from 
-https://rawgit.com/MycroftAI/mycroft-skills/master/meta_editor.html
+# <img src='https://rawgithub.com/FortAwesome/Font-Awesome/master/advanced-options/raw-svg/solid/question.svg' card_color='#3A5564' width='50' height='50' style='vertical-align:bottom'/> Money Trivia
+Miscellaneous information about money
 
+## About 
 
-## YOUR SKILL NAME
-One line description of the skill
-
-## Description 
-A more verbose description, including any extra instructions or
-information that didn't fit in the one line.
 
 ## Examples 
-* "Hello world"
-* "Greetings planet earth"
-* "Count up"
-* "Count down"
+* "Tell me something interesting."
 
 ## Credits 
-Your name
+Brian Armstrong (@jayeagle)
+
+## Category
+**Entertainment**
+Information
+
+## Tags
